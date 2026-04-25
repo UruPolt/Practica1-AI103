@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="plantGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8fbf67" />
+      <stop offset="100%" stop-color="#3d7e3f" />
+    </linearGradient>
+    <linearGradient id="trapGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b12f28" />
+      <stop offset="100%" stop-color="#7f1f18" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="40" ry="40" fill="#e8f0e1" />
+  <ellipse cx="400" cy="420" rx="280" ry="50" fill="#6b8d55" opacity="0.8" />
+  <path d="M320 280 C300 240 330 210 360 220 C375 225 385 240 400 245 C420 250 430 230 450 215 C470 200 500 205 520 230 C540 255 510 290 490 295 C460 305 435 300 410 305 C385 310 370 295 345 290 C320 285 325 305 320 280 Z" fill="url(#trapGradient)" stroke="#40211a" stroke-width="7" />
+  <path d="M350 230 C290 175 310 125 360 130 C390 132 410 158 430 180 C455 205 480 215 500 220 C540 230 565 255 550 275 C530 310 490 295 465 280 C445 268 425 250 405 240 C375 225 365 220 350 230 Z" fill="#91c55a" />
+  <path d="M365 230 C360 245 360 255 365 270" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.8" />
+  <path d="M385 220 C392 235 398 245 405 258" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.75" />
+  <circle cx="420" cy="250" r="25" fill="#f4d7a0" opacity="0.8" />
+  <path d="M380 360 C370 330 310 320 290 360 C280 380 285 410 310 430 C335 450 375 440 395 410" fill="#4f7d43" />
+  <path d="M450 360 C460 330 520 320 540 360 C550 380 545 410 520 430 C495 450 455 440 435 410" fill="#4f7d43" />
+</svg>
